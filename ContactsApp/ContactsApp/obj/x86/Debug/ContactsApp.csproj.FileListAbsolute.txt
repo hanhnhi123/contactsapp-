@@ -1,0 +1,4 @@
+C:\Users\WIN\Documents\GitHub\contactsapp-\ContactsApp\ContactsApp\bin\Debug\ContactsApp.exe
+C:\Users\WIN\Documents\GitHub\contactsapp-\ContactsApp\ContactsApp\bin\Debug\ContactsApp.pdb
+C:\Users\WIN\Documents\GitHub\contactsapp-\ContactsApp\ContactsApp\obj\x86\Debug\ContactsApp.exe
+C:\Users\WIN\Documents\GitHub\contactsapp-\ContactsApp\ContactsApp\obj\x86\Debug\ContactsApp.pdb
